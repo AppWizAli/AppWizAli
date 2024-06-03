@@ -1,29 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>
-<h3 align="center">Currently, Working in Enfotrix Software Tech Company</h3>
+<h3 align="center">Worked At Enfotrix and HiSkyTech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appwizali&label=Profile%20views&color=0e75b6&style=flat" alt="appwizali" /> </p>
 
-- 🔭 I’m currently working on [Life Changer](https://github.com/AppWizAli/Life-Changer-User-2.0)
-
-- 🌱 I’m currently learning **Flutter, Game Development**
-
-- 👯 I’m looking to collaborate on [Social Markaz](https://github.com/AppWizAli/Social-Markaz-User)
-
-- 🤝 I’m looking for help with [Fashion HUb](https://github.com/AppWizAli/FashionHub)
-
 - 👨‍💻 All of my projects are available at [https://github.com/AppWizAli](https://github.com/AppWizAli)
 
-- 💬 Ask me about **Java, Kotlin, Flutter**
+- 💬 Ask me about **Java, Kotlin**
 
-- 📫 How to reach me **appwizali@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
+- 📫 How to reach me **alihamxatech@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-hamza-7b3762252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-hamza-7b3762252/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucv5oh_wgdjqmdapwhlfuodg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucv5oh_wgdjqmdapwhlfuodg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-hamza-7b3762252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-hamza-7b3762252/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
