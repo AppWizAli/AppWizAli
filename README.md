@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>
 <h3 align="center">Worked At Enfotrix and HiSkyTech</h3>
-
+<br>
+<h3 align="center">Working At Isoftic It Solution</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appwizali&label=Profile%20views&color=0e75b6&style=flat" alt="appwizali" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AppWizAli](https://github.com/AppWizAli)
