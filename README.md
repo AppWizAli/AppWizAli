@@ -1,5 +1,5 @@
 <h1 align="center">Ali Hamza</h1>
-<h3 align="center">Mobile App Developer | Founder of HiSkyTech</h3>
+<h3 align="center">Mobile App Developer</h3>
 
 ---
 
