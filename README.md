@@ -4,22 +4,21 @@
 ---
 
 ## 👨‍💼 About Me
-I'm a passionate **Mobile App Developer** and the founder of **HiSkyTech**, with years of hands-on experience in delivering functional, scalable, and visually stunning applications.
+I'm a passionate **Mobile App Developer** with years of hands-on experience in delivering functional, scalable, and visually stunning applications.
 
 ---
 
-## 🏢 About HiSkyTech
-**HiSkyTech** is a software company with a dynamic team of 20+ professionals:
-- 📱 Mobile App Developers  
-- 🌐 Website Developers  
-- 🎨 UI/UX Designers  
-- 🖌️ Graphic Designers  
+## 💼 Experience
 
-🔗 Visit us: [www.hiskytechs.com](https://www.hiskytechs.com)
+| Company              | Role                | Duration            |
+|----------------------|---------------------|---------------------|
+| Enfotrix             | Android App Developer | 1 Year |
+| HiSkyTech            | Android App Developer | 1 Year |
+| Isoftic It Solution  | Android App Developer |  2 Months |
 
 ---
 
-## 🚀 Our Real Projects
+## 🚀 Real Projects
 
 | 🚀 App | 📋 Description |
 |-------|----------------|
@@ -43,6 +42,5 @@ I'm a passionate **Mobile App Developer** and the founder of **HiSkyTech**, with
 
 ## 💬 Want to Work Together?
 
-We build real products — not just prototypes.  
-📞 [Visit HiSkyTech](https://www.hiskytechs.com) to get started!
-
+I build real products — not just prototypes.  
+📞 [Contact Me for More Info
