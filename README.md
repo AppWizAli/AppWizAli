@@ -15,7 +15,7 @@ I'm a passionate **Mobile App Developer** with years of hands-on experience in d
 | Enfotrix             | Android App Developer | 1 Year |
 | HiSkyTech            | Android App Developer | 1 Year |
 | Isoftic It Solution  | Android App Developer |  2 Months |
-
+| Dixeam               | Android App Developer |  Present  |
 ---
 
 ## 🚀 Real Projects
@@ -37,7 +37,7 @@ I'm a passionate **Mobile App Developer** with years of hands-on experience in d
 | 🛒 **E-Commerce App** | Full cart, checkout, admin, Stripe payments |
 | 🤖 **AI Chat & Image Gen** | GPT + DALL·E-based text & image generation |
 | 🧭 **Translator App** | Fast, offline ML Kit-based language translation |
-
+🧭 **Networking App** | Ping Tool, Netwrok Tool, Security Tools|
 ---
 
 ## 💬 Want to Work Together?
