@@ -1,6 +1,6 @@
 <!-- Optional: Top banner image (replace with your own hosted image URL) -->
 <p align="center">
-  <img src="https://i.imgur.com/yN6sF9r.png" alt="Ali Hamza - Mobile App Developer" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGQasvYjy-UzA/profile-displayphoto-scale_200_200/B4DZhFOatOG8AY-/0/1753508064927?e=2147483647&v=beta&t=2HJ45czMuHgoGxARHEjYeqGoURiDonF7nZBRpaMpdcg)" alt="Ali Hamza - Mobile App Developer" width="100%" />
 </p>
 
 <h1 align="center">🚀 Ali Hamza</h1>
