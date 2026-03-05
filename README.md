@@ -4,7 +4,8 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Ali Hamza — Mobile App Developer</title>
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=JetBrains+Mono:wght@300;400;600&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Clash+Display:wght@500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Orbitron:wght@700;900&display=swap" rel="stylesheet"/>
 <style>
   :root {
     --bg: #050A0F;
@@ -23,9 +24,14 @@
   body {
     background: var(--bg);
     color: var(--text);
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
     overflow-x: hidden;
     min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 
   /* === GRID BACKGROUND === */
@@ -104,21 +110,24 @@
   }
 
   .hero h1 {
-    font-family: 'Syne', sans-serif;
-    font-size: clamp(2.4rem, 6vw, 3.8rem);
-    font-weight: 800;
-    letter-spacing: -0.03em;
+    font-family: 'Orbitron', sans-serif;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 900;
+    letter-spacing: 0.04em;
     background: linear-gradient(135deg, var(--accent) 0%, var(--accent2) 50%, #fff 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     margin-bottom: 12px;
+    line-height: 1.2;
   }
 
   .hero-sub {
-    font-size: 0.85rem;
+    font-size: 0.82rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
     color: var(--muted);
-    letter-spacing: 0.12em;
+    letter-spacing: 0.18em;
     text-transform: uppercase;
     margin-bottom: 20px;
   }
@@ -133,9 +142,10 @@
   .badge {
     padding: 5px 14px;
     border-radius: 4px;
-    font-size: 0.72rem;
+    font-size: 0.75rem;
+    font-family: 'Outfit', sans-serif;
     font-weight: 600;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.05em;
     border: 1px solid;
     animation: pulse 3s ease-in-out infinite;
   }
@@ -157,10 +167,11 @@
     margin-top: 56px;
   }
   .section-header h2 {
-    font-family: 'Syne', sans-serif;
-    font-size: 1.3rem;
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.15rem;
     font-weight: 700;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
     color: var(--text);
   }
   .section-line {
@@ -191,8 +202,10 @@
     background: linear-gradient(90deg, var(--accent), var(--accent2), var(--accent3));
   }
   .about-card p {
-    font-size: 0.88rem;
-    line-height: 1.9;
+    font-size: 0.95rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    line-height: 1.85;
     color: #9EC5D8;
     margin-bottom: 8px;
   }
@@ -217,8 +230,10 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 10px;
-    font-size: 0.78rem;
+    font-size: 0.82rem;
+    font-family: 'Outfit', sans-serif;
     font-weight: 600;
+    letter-spacing: 0.02em;
   }
   .skill-name { color: var(--text); }
   .skill-pct  { color: var(--accent); }
@@ -279,7 +294,7 @@
     font-size: 1.2rem;
     flex-shrink: 0;
   }
-  .exp-company { font-size: 0.88rem; font-weight: 600; color: var(--text); font-family: 'Syne', sans-serif; }
+  .exp-company { font-size: 0.88rem; font-weight: 600; color: var(--text); font-family: 'Outfit', sans-serif; }
   .exp-role    { font-size: 0.75rem; color: var(--muted); margin-top: 2px; }
   .exp-duration {
     font-size: 0.75rem;
@@ -326,16 +341,19 @@
 
   .project-emoji { font-size: 1.6rem; margin-bottom: 10px; display: block; }
   .project-name {
-    font-family: 'Syne', sans-serif;
-    font-size: 0.92rem;
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.95rem;
     font-weight: 700;
     color: var(--text);
     margin-bottom: 6px;
+    letter-spacing: 0.01em;
   }
   .project-desc {
-    font-size: 0.76rem;
+    font-size: 0.82rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
     color: var(--muted);
-    line-height: 1.6;
+    line-height: 1.65;
   }
 
   /* === STATS DONUT === */
@@ -353,9 +371,9 @@
     text-align: center;
   }
   .stat-num {
-    font-family: 'Syne', sans-serif;
-    font-size: 2.4rem;
-    font-weight: 800;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
     background: linear-gradient(135deg, var(--accent), var(--accent2));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -365,9 +383,11 @@
     margin-bottom: 6px;
   }
   .stat-label {
-    font-size: 0.73rem;
+    font-size: 0.72rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
     color: var(--muted);
-    letter-spacing: 0.1em;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
   }
 
@@ -435,7 +455,9 @@
   .footer {
     text-align: center;
     margin-top: 80px;
-    font-size: 0.72rem;
+    font-size: 0.78rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
     color: var(--muted);
     letter-spacing: 0.08em;
     padding-bottom: 20px;
@@ -456,10 +478,11 @@
   /* === TERMINAL CURSOR === */
   .cursor {
     display: inline-block;
-    width: 2px; height: 1em;
+    width: 3px; height: 0.85em;
     background: var(--accent);
-    margin-left: 4px;
+    margin-left: 6px;
     vertical-align: middle;
+    border-radius: 1px;
     animation: blink 1s step-end infinite;
   }
   @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
@@ -638,8 +661,8 @@
     <div class="section-line"></div>
   </div>
   <div class="contact-row">
-    <a href="mailto:alihamza.dev@gmail.com" class="contact-chip">
-      <span>📧</span> alihamza.dev@gmail.com
+    <a href="/cdn-cgi/l/email-protection#89e8e5e0e1e8e4f3e8a7edecffc9eee4e8e0e5a7eae6e4" class="contact-chip">
+      <span>📧</span> <span class="__cf_email__" data-cfemail="c1a0ada8a9a0acbba0efa5a4b781a6aca0a8adefa2aeac">[email&#160;protected]</span>
     </a>
     <a href="https://github.com/AliHamza" class="contact-chip" target="_blank">
       <span>💻</span> github.com/AliHamza
@@ -655,7 +678,7 @@
 
 </div><!-- /container -->
 
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
 // ===== COUNTER ANIMATION =====
 function animateCount(el, target, suffix = '', duration = 1800) {
   let start = 0;
@@ -765,7 +788,7 @@ skills.forEach((s, i) => {
     text.setAttribute('text-anchor','middle');
     text.setAttribute('fill','#9EC5D8');
     text.setAttribute('font-size','11');
-    text.setAttribute('font-family',"'JetBrains Mono', monospace");
+    text.setAttribute('font-family',"'Outfit', sans-serif");
     text.textContent = lbl;
     svg.appendChild(text);
   });
@@ -812,12 +835,4 @@ const projects = [
 const pg = document.getElementById('projects-grid');
 projects.forEach((p, i) => {
   pg.innerHTML += `
-    <div class="project-card" style="animation: fadeSlideUp 0.5s ${0.05*i + 0.3}s both">
-      <span class="project-emoji">${p.emoji}</span>
-      <div class="project-name">${p.name}</div>
-      <div class="project-desc">${p.desc}</div>
-    </div>`;
-});
-</script>
-</body>
-</html>
+    <div class="project-card" s
